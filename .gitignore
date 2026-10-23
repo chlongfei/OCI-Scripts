@@ -1,0 +1,7 @@
+# py things
+__pycache__/
+.devcontainer/
+
+# sensitive things
+oci/*.pem
+oci/config
