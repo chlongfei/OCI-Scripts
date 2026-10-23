@@ -12,7 +12,7 @@ import oci
 # Configuration
 ociConfDir="oci/config"
 ipaddr=""
-ipsrcUri="https://myip.util.chlf.dev/"
+ipsrcUri="https://checkip.amazonaws.com/"
 nsg = {
     "ocid":"ocid1.networksecuritygroup.oc1.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "rule":{
